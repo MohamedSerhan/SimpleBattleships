@@ -5,9 +5,7 @@ A very simple one-sided battleship game
 The goal of the game is to guess where the randomly placed AI battleships are and shot them down in the least amount of turns possible.
 
 ## Features
-- Replayability 
-- Start Button
-- End Button
+- Endlessly replayable
 - Random battleship locations
 - Scoring system
 - Text window with hit/miss feedback
